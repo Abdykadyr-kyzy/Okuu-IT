@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Okuu-IT/static/css/main.562f44ea.chunk.css",
-    "main.js": "/Okuu-IT/static/js/main.24bf43f5.chunk.js",
-    "main.js.map": "/Okuu-IT/static/js/main.24bf43f5.chunk.js.map",
+    "main.css": "/Okuu-IT/static/css/main.0efc2208.chunk.css",
+    "main.js": "/Okuu-IT/static/js/main.25bb6df3.chunk.js",
+    "main.js.map": "/Okuu-IT/static/js/main.25bb6df3.chunk.js.map",
     "runtime-main.js": "/Okuu-IT/static/js/runtime-main.ccabd5a3.js",
     "runtime-main.js.map": "/Okuu-IT/static/js/runtime-main.ccabd5a3.js.map",
     "static/js/2.bcbf1cce.chunk.js": "/Okuu-IT/static/js/2.bcbf1cce.chunk.js",
     "static/js/2.bcbf1cce.chunk.js.map": "/Okuu-IT/static/js/2.bcbf1cce.chunk.js.map",
     "index.html": "/Okuu-IT/index.html",
-    "static/css/main.562f44ea.chunk.css.map": "/Okuu-IT/static/css/main.562f44ea.chunk.css.map",
+    "static/css/main.0efc2208.chunk.css.map": "/Okuu-IT/static/css/main.0efc2208.chunk.css.map",
     "static/js/2.bcbf1cce.chunk.js.LICENSE.txt": "/Okuu-IT/static/js/2.bcbf1cce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ccabd5a3.js",
     "static/js/2.bcbf1cce.chunk.js",
-    "static/css/main.562f44ea.chunk.css",
-    "static/js/main.24bf43f5.chunk.js"
+    "static/css/main.0efc2208.chunk.css",
+    "static/js/main.25bb6df3.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Okuu-IT/static/css/main.6397e24b.chunk.css",
-    "main.js": "/Okuu-IT/static/js/main.d091b66b.chunk.js",
-    "main.js.map": "/Okuu-IT/static/js/main.d091b66b.chunk.js.map",
+    "main.js": "/Okuu-IT/static/js/main.fd85d45d.chunk.js",
+    "main.js.map": "/Okuu-IT/static/js/main.fd85d45d.chunk.js.map",
     "runtime-main.js": "/Okuu-IT/static/js/runtime-main.ccabd5a3.js",
     "runtime-main.js.map": "/Okuu-IT/static/js/runtime-main.ccabd5a3.js.map",
     "static/js/2.bcbf1cce.chunk.js": "/Okuu-IT/static/js/2.bcbf1cce.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ccabd5a3.js",
     "static/js/2.bcbf1cce.chunk.js",
     "static/css/main.6397e24b.chunk.css",
-    "static/js/main.d091b66b.chunk.js"
+    "static/js/main.fd85d45d.chunk.js"
   ]
 }
